@@ -11,7 +11,7 @@ A basic implementation of a blockchain in Python. This project is designed for b
 - Python implementation with easy-to-understand code
 
 ## Prerequisites
-- Python 3.x installed on your system.
+- Python should be installed on your system.
 
 ## Installation
 1. Clone the repository:
