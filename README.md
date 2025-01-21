@@ -16,4 +16,4 @@ A basic implementation of a blockchain in Python. This project is designed for b
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/simple-blockchain.git
+    https://github.com/maxspxtr/simple-blockchain.git 
